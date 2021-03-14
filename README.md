@@ -1,7 +1,7 @@
 
-**Welcome to our To Do List Manager**
-### Here you can manage your tasks easily and become more productive.
-### We chose EJS as our view engine and JSON for reading and transfering data.
+# Welcome to our To Do List Manager
+#### Here you can manage your tasks easily and become more productive.
+#### We chose EJS as our view engine and JSON for reading and transfering data.
 ---
 # Usage
 - To Start managing your tasks, press the add button.
